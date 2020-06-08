@@ -1,2 +1,2 @@
-# ARM-templates
-Customized ARM templates for Azure OPS
+# ARM-templates & Ops/infra scripts
+Customized ARM templates for Azure.
